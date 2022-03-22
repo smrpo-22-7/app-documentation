@@ -9,6 +9,48 @@ Kazalo vsebine
 
 ## Uporaba
 
+### Prijava
+
+Uporabnik sproži postopek prijave tako, da izbere gumb za prijavo:
+
+![](../media/login_1.png)
+
+Nato se mu prikaže prijavno okno:
+
+![](../media/login_2.png)
+Oznake:
+1. Vnos uporabniškega imena
+2. Vnos uporabnikovega gesla
+3. Gumb za prikaz vnesenega gesla
+4. Povezava za ponastavitev gesla
+
+Dvofaktoralna avtentikacija:
+
+![](../media/login_5.png)
+
+Vnosno polje za 2FA geslo:
+
+![](../media/login_6.png)
+
+Ponastavitev gesla:
+![](../media/login_3.png)
+
+Elektronsko sporočilo z povezavo za ponastavitev:
+
+![](../media/login_4.png)
+
+Sporočilo po vnesenem elektronskem naslovu:
+
+![](../media/login_7.png)
+
+Obrazec za menjavo gesla (aplikacija nas opozori, če je geslo prešibko)
+
+![](../media/login_8.png)
+
+Password meter se obarva zeleno, če je geslo dovolj varno:
+
+![](../media/login_9.png)
+
 ## Opis implementacije
 
 Aplikacija uporablja lastno implementacijo protokola OpenId Connect 1.0 [[1]](https://openid.net/connect/) za pridobivanje poverilnic na čelni strani. Ta protokol temelji na drugem protokolu OAuth 2.0 [[2]](https://oauth.net/2/)
@@ -111,4 +153,9 @@ Postopek:
 4. Če se vrednosti ujemajo, je uporabnik pozvan da vnese novo geslo.
 5. Če je geslo pravilno (ustreza politiki gesla), se le-to nastavi za tega uporabnika.
 
+### Podpisovanje žetonov
 
+Vsi izdani žetoni, so zapisani v formatu JWT, natančneje v formatu JWS (Json Web Signature) [[4]](https://datatracker.ietf.org/doc/html/rfc7515). 
+Za podpis se uporablja algoritem RS256, ki je sestavljen iz RSA z 2048-bitnim ključem in zgoščene vrednosti SHA256.
+
+Ob zagonu strežnika, se ustvari nov par ključev (če ta še ne obstaja) in se shrani v podatkovno bazo.
