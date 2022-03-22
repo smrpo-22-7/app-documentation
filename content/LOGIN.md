@@ -6,6 +6,7 @@ Kazalo vsebine
     1. [Hramba poverilnic](#hramba-poverilnic)
     2. [Podprti tokovi](#podprti-tokovi-ang-flows-avtentikacije)
     3. [Dodatni tokovi](#dodatni-tokovi)
+    4. [Podpisovanje žetonov](#podpisovanje-etonov)
 
 ## Uporaba
 
