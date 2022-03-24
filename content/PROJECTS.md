@@ -14,8 +14,11 @@ Nato v nadzorni plošči izberejo `New project`:
 
 Ko uporabniki z ustreznimi pravicami izberejo `New project`, se prikaže obrazec za dodajanje novega projekta. V ta obrazec je obvezno vnesti
 
-1. Ime projekta (mora biti unikatno - ne smeta obstajati dva uporabnika z enakim uporabniškim imenom)
-2. Uporabnike, ki sodelujejo pri projektu in njihove projektne vloge (produktni vodja, skrbnik metodologije, član razvojne skupine).
+1. Ime projekta (mora biti unikatno - ne smeta obstajati dva uporabnika z enakim uporabniškim imenom), 
+
+ni pa obvezno vnesti
+
+2. uporabnikov, ki sodelujejo pri projektu in njihovih projektnih vlog (produktni vodja, skrbnik metodologije, član razvojne skupine).
 
 ![userform4](https://user-images.githubusercontent.com/24944462/159965439-2bdedf09-c46a-42b3-aa91-e7a3b5fbf3e5.png)
 
