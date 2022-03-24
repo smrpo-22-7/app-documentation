@@ -12,7 +12,7 @@ Nato v nadzorni plošči izberejo `New project`:
 
 ![2022-03-24 (4)](https://user-images.githubusercontent.com/24944462/159945701-e9b90efd-56a3-4ce4-aee0-4c7e44f6d7ca.png)
 
-Ko uporabniki z ustreznimi pravicami izberejo `New project`, se prikaže obrazec za dodajanje novega projekta. V ta obrazec je obvezno vnesti
+Ko uporabniki z ustreznimi pravicami izberejo `New project`, se prikaže obrazec za dodajanje novega projekta. V obrazec za dodajanje projekta je obvezno vnesti
 
 1. Ime projekta (mora biti unikatno - ne smeta obstajati dva uporabnika z enakim uporabniškim imenom), 
 
