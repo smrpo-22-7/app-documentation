@@ -9,6 +9,5 @@ Ob kliku  na katerikoli Sprint (c), se odpre njegova spletna stran, ki vsebuje n
 
 ![2022-03-24 (23)](https://user-images.githubusercontent.com/24944462/159990888-b220e71e-6d08-4456-ab00-66db2b81e861.png)
 
-Do Sprintov lahko dostopamo tudi preko začetne strani.
-
+Do uporabniških zgodb projekta lahko dostopamo tudi preko začetne strani, kjer so zbrani vsi projekti.
 
