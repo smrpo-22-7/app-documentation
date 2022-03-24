@@ -8,7 +8,7 @@
 2. [Dodajanje uporabnikov](./content/USERS.md)
 3. [Dodajanje projekta](./content/PROJECTS.md)
 4. [Ustvarjanje novega sprinta](./content/SPRINTS.md)
-5. [Dodajanje uporabniških zgodb](./vontent/STORIES.md)
+5. [Dodajanje uporabniških zgodb](./content/STORIES.md)
 
 ## Terminologija
 
