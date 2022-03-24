@@ -22,3 +22,12 @@ Ko uporabniki z ustreznimi pravicami izberejo  `New user`, se prikaže obrazec z
 7. Pravice novega uporabnika
 
 ![userform2](https://user-images.githubusercontent.com/24944462/159921550-d03ca318-4fc2-4168-bfee-d1b44d91e381.png)
+
+
+## Opis implementacije
+
+Čelni del aplikacije je zgrajen na platformi Angular. Vsi obrazci so zgrajeni po istem principu - kot primer je spodaj opisana implementacija obrazca za dodajanje uporabnika. 
+
+###Implementacija obrazca za dodajanje uporabnika
+
+Obrazec za dodajanje uporabnika se nahaja v svoji komponenti. Zraven komponente se v isti mapi nahajajo tudi ročno spisani na dodajanje uporabnika vezani validatorji, ki ne potrebujejo povezave z bazo. Podatki iz obrazca se pošiljajo na bazo s pomočjo uporabniškega servisa, kjer se nahajajo tudi tisti na uporabnika vezani validatorji, ki so povezani z bazo. Za korektno delovanje je potrebno tudi preverjanje tipov podatkov, kar je narejeno z uporabniškimi vmesniki.
