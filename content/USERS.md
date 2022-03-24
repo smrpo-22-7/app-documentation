@@ -12,7 +12,7 @@ Nato v nadzorni plošči izberejo `New user`:
 
 ![2022-03-24](https://user-images.githubusercontent.com/24944462/159912339-54992597-39d6-4675-8f65-165dda492cd0.png)
 
-Ko uporabniki izberejo  `New user`, se prikaže obrazec za dodajanje novega uporabnika. V ta obrazec je obvezno vnesti 
+Ko uporabniki z ustreznimi pravicami izberejo  `New user`, se prikaže obrazec za dodajanje novega uporabnika. V ta obrazec je obvezno vnesti 
 1. Vzdevek
 2. Geslo
 3. Potrditev gesla (se mora ujemati z geslom)
