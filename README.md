@@ -5,10 +5,14 @@
 1. Prijava
     1. [Prijava v sistem](./content/LOGIN.md)
     2. [Uporabniški profil](./content/USER_PROFILE.md)
-2. [Dodajanje uporabnikov](./content/USERS.md)
-3. [Dodajanje projekta](./content/PROJECTS.md)
-4. [Ustvarjanje novega sprinta](./content/SPRINTS.md)
-5. [Dodajanje uporabniških zgodb](./content/STORIES.md)
+2. [Začetna stran](./content/FIRSTPAGE.md)
+3. [Informacije o projektu](./content/INFO.md)
+4. [Sprinti projekta](./content/SPRINTSINFO.md)
+5. [Uporabniške zgodbe projekta](./content/STORIESINFO.md)
+6. [Dodajanje uporabnikov](./content/USERS.md)
+7. [Dodajanje projekta](./content/PROJECTS.md)
+8. [Ustvarjanje novega sprinta](./content/SPRINTS.md)
+9. [Dodajanje uporabniških zgodb](./content/STORIES.md)
 
 ## Terminologija
 
