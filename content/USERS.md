@@ -8,5 +8,5 @@ Uporabnikom, ki imajo ustrezne pravice, se v naslovni vrstici, poleg uporabnišk
 
 *(barva je lahko drugačna)*
 
-Nato v nadzorni plošči izberejo `Add user`, ki jim prikaže takšen zaslon:
+Nato v nadzorni plošči izberejo `New user`, ki jim prikaže takšen zaslon:
 
