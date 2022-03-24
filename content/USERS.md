@@ -10,3 +10,4 @@ Uporabnikom, ki imajo ustrezne pravice, se v naslovni vrstici, poleg uporabnišk
 
 Nato v nadzorni plošči izberejo `New user`, ki jim prikaže takšen zaslon:
 
+![2022-03-24](https://user-images.githubusercontent.com/24944462/159912339-54992597-39d6-4675-8f65-165dda492cd0.png)
