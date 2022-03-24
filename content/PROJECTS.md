@@ -10,3 +10,5 @@ Uporabnikom, ki imajo ustrezne pravice, se v naslovni vrstici, poleg uporabnišk
 
 Nato v nadzorni plošči izberejo `New project`:
 
+![2022-03-24 (4)](https://user-images.githubusercontent.com/24944462/159945701-e9b90efd-56a3-4ce4-aee0-4c7e44f6d7ca.png)
+
