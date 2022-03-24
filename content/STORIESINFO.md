@@ -5,3 +5,4 @@ V naslovni vrstici se nahaja padajoč seznam projektov (a). V tem seznamu projek
 
 ![2022-03-24 (21)](https://user-images.githubusercontent.com/24944462/159989789-37fd48e8-168d-4aaa-b932-2b343dbf8ca4.png)
 
+Do uporabniških zgodb projekta lahko dostopamo tudi preko začetne strani, kjer so zbrani vsi projekti.
