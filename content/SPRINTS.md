@@ -9,4 +9,14 @@ Ko je želen projekt označen, je potrebno klikniti na gumb `Sprints` (a), ki se
 
 ![2022-03-24 (10)](https://user-images.githubusercontent.com/24944462/159971680-82ef46b3-6136-4233-97b2-c5942cded185.png)
 
+Ob kliku na gumb `Add a new Sprint` (b) se prikaže obrazec za ustvarjanje novega Sprinta. V ta obrazec je obvezno vnesti 
+
+1. Naslov
+2. Začetni datum 
+3. Končni datum 
+4. Začetno hitrost (pozitivna vrednost)
+
+Pri tem moramo biti pozorni na to, da začetni datum ni v preteklosti in da je začetni datum pred končnim datumom. 
+
+![2022-03-24 (13)](https://user-images.githubusercontent.com/24944462/159973979-47b66a59-e11f-4030-8a36-3fc84e6af690.png)
 
