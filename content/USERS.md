@@ -28,6 +28,6 @@ Ko uporabniki z ustreznimi pravicami izberejo  `New user`, se prikaže obrazec z
 
 Čelni del aplikacije je zgrajen na platformi Angular. Vsi obrazci so zgrajeni po istem principu - kot primer je spodaj opisana implementacija obrazca za dodajanje uporabnika. 
 
-##Implementacija obrazca za dodajanje uporabnika
+### Implementacija obrazca za dodajanje uporabnika
 
-Obrazec za dodajanje uporabnika se nahaja v svoji komponenti. Zraven komponente se v isti mapi nahajajo tudi ročno spisani na dodajanje uporabnika vezani validatorji, ki ne potrebujejo povezave z bazo. Podatki iz obrazca se pošiljajo na bazo s pomočjo uporabniškega servisa, kjer se nahajajo tudi tisti na uporabnika vezani validatorji, ki so povezani z bazo. Za korektno delovanje je potrebno tudi preverjanje tipov podatkov, kar je narejeno z uporabniškimi vmesniki.
+Obrazec za dodajanje uporabnika se nahaja v svoji komponenti. Zraven komponente se v isti mapi nahajajo tudi ročno spisani in na dodajanje uporabnika vezani validatorji, ki ne potrebujejo povezave z bazo. Podatki iz obrazca se pošiljajo na bazo s pomočjo uporabniškega servisa, kjer se nahajajo tudi tisti na uporabnika vezani validatorji, ki so povezani z bazo. Za korektno delovanje je potrebno tudi preverjanje tipov podatkov, kar je narejeno z uporabniškimi vmesniki.
